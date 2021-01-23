@@ -1,6 +1,6 @@
 # Weahter application (OpenWeather API) made with Xamarin.Forms
 ## Гончаров Андрей, 181-321 (Goncharov Andrew)
-### Лаба 2 "Сервер"
+### Лаба 1 "Список и детали"
 
 This web app uses some nice techs and langs like:
 
