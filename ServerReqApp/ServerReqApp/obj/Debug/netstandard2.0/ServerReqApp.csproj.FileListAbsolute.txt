@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\bin\Debug\netstandard2.0\ServerReqApp.deps.json
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\bin\Debug\netstandard2.0\ServerReqApp.dll
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\bin\Debug\netstandard2.0\ref\ServerReqApp.dll
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\bin\Debug\netstandard2.0\ServerReqApp.pdb
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\ServerReqApp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\ServerReqApp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\ServerReqApp.AssemblyInfo.cs
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\ServerReqApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\ServerReqApp.dll
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\ref\ServerReqApp.dll
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\ServerReqApp.pdb
+C:\Users\USER\source\repos\ServerReqApp\ServerReqApp\ServerReqApp\obj\Debug\netstandard2.0\Details.xaml.g.cs

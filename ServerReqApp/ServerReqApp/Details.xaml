@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ServerReqApp.Details">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="label1" Text="-"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <ScrollView>
+                <StackLayout>
+
+                    <ListView x:Name="scroll1" ItemsSource="{Binding List1}" />
+
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

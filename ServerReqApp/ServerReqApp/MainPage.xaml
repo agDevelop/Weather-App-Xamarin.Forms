@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ServerReqApp.MainPage"
+             Title="Laba1 Goncharov 181-321">
+
+
+    <StackLayout>
+        <Button x:Name="button1" Text="Обновить" Clicked="Button1_Click" />
+
+        <ScrollView>
+        <StackLayout>
+
+            <ListView x:Name="weatherScroll" ItemTapped="weatherScroll_ItemTapped" ItemsSource="{Binding WeatherList}"
+                      IsPullToRefreshEnabled="True"
+           RefreshCommand="{Binding RefreshCommand}"
+           IsRefreshing="{Binding IsRefreshing}" />
+
+        </StackLayout>
+    </ScrollView>
+    </StackLayout>
+
+</ContentPage>
