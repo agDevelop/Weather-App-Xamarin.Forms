@@ -57,14 +57,11 @@ namespace ServerReqApp
             {
                 HttpClient client = new HttpClient();
                 HttpRequestMessage request = new HttpRequestMessage();
-
-                // this works, if the protocol is included in the string
+                
                 Uri serverUri = new Uri("http://api.openweathermap.org");
-
-                // needs UriKind arg, or UriFormatException is thrown
+                
                 Uri relativeUri = new Uri("data/2.5/weather?q=Podolsk&appid=64bc9c5f639ff73c8de7f689df34817b", UriKind.Relative);
 
-                // Uri(Uri, Uri) is the preferred constructor in this case
                 Uri fullUri = new Uri(serverUri, relativeUri);
 
                 request.RequestUri = fullUri;
