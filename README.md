@@ -10,3 +10,11 @@ This web app uses some nice techs and langs like:
 </ul>
 
 To launch it just download and open .sln with VS. You need android emulator, SDK and NDK also. You can set their paths in VS settings in "Xamarin".
+
+<img src="Screenshot_55.png" />
+
+<img src="Screenshot_56.png" />
+
+<img src="Screenshot_57.png" />
+
+<img src="Screenshot_58.png" />
