@@ -1,8 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.cpp linguist-detectable=false
-*.c linguist-detectable=false
-*.cc linguist-detectable=false
-*.cxx linguist-detectable=false
-*.c++ linguist-detectable=false
-*.java linguist-detectable=false
+*.c text
+*.cc text
+*.cxx text
+*.cpp text
+*.c++ text
+*.hpp text
+*.h text
